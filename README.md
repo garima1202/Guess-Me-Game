@@ -20,4 +20,3 @@ If the player is unable to decipher the right word, there is a help button to he
 The space key helps to shuffle.
 The enter key can be used to check if input is valid.
 
-NARUDESIGNS 2020
